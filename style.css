@@ -1,0 +1,23 @@
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {color: azure;
+}
+
+.box {background-color: #7469B6
+}
+
+.inner-box {background-color: #E1AFD1;
+}
+
+#outer-box {background-color: #AD88C6;
+}
